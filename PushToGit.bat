@@ -1,6 +1,6 @@
 git add .
 
-set /p CommitMessage=
+set /p CommitMessage= ""
 
 git commit -m "%CommitMessage%"
 
