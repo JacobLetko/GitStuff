@@ -1,7 +1,7 @@
 git add .
 
-set /p cm= ""
+set /p CommitMessage=
 
-git commit -m "%cm%"
+git commit -m "%CommitMessage%"
 
 git push
