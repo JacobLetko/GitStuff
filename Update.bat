@@ -1,1 +1,4 @@
-::this is for Updating the git bat files.
+::this is to add a "file" and update it
+
+::git submodule add -b master https://github.com/JacobLetko/GitStuff
+::git submodule update --remote
