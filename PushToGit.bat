@@ -1,3 +1,5 @@
+cd ..
+
 git add .
 
 set /p CommitMessage= 

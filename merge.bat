@@ -1,5 +1,7 @@
 ::merge branh 1 to branch 2
 
+cd ..
+
 echo "case senesitive"
 set \p 1stBranch=
 set \p 2ndBranch=
