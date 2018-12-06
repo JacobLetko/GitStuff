@@ -1,4 +1,4 @@
-::merge branh 1 to branch 2
+::merge branch 1 to branch 2
 
 cd ..
 
