@@ -12,4 +12,5 @@ just drag the folder into project and click on bat file you want to use
 
 - [ ] beable to "fix" merge conflicts or ask if you want to overwrite them
 - [ ] make sure the setup works
-- [ ] makesure the update works
+- [ ] make sure the update works
+- [ ] make it so when using initnewrepo that it puts it in a file above and or moves the git stuff file into the new repo file
