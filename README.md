@@ -8,7 +8,7 @@ just drag the folder into project and click on bat file you want to use
 
 
 
-## TODO
+### TODO
 
 - [ ] beable to "fix" merge conflicts or ask if you want to overwrite them
 - [ ] make sure the setup works
