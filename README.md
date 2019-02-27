@@ -15,3 +15,7 @@
 - [ ] make sure the setup works
 - [ ] make sure the update works
 - [ ] make a error record file
+
+
+### Notes
+- https://www.tutorialspoint.com/batch_script/index.htm
