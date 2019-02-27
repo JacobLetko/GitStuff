@@ -8,5 +8,5 @@ just drag the folder into project and click on bat file you want to use
 
 
 
-#To do list
+# TODO
 beable to "fix" merge conflicts or ask if you want to overwrite them
