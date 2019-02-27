@@ -14,3 +14,4 @@
 - [ ] beable to "fix" merge conflicts or ask if you want to overwrite them
 - [ ] make sure the setup works
 - [ ] make sure the update works
+- [ ] make a error record file
