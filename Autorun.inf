@@ -1,2 +1,2 @@
 [AutoRun]
-OPEN = PullFromGit.bat
+OPEN = Pull.bat
