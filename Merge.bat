@@ -3,8 +3,8 @@
 cd ..
 
 echo "case senesitive"
-set \p FromBranch=
-set \p ToBranch=
+set /p FromBranch=
+set /p ToBranch=
 
 
 

@@ -1,5 +1,5 @@
 cd ..
 
-set \p link=
+set /p link=
 
 git clone %link%
