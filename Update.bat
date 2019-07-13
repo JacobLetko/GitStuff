@@ -1,1 +1,1 @@
-git submodule sync
+git submodule sync --recursive
